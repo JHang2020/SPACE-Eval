@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.tmp
+
+# 数据与结果不进代码仓库：数据在 HuggingFace（gated），结果为本地产物
+anno_data/
+release_staging/
+caption_results/
+eval_results/
