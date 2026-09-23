@@ -1,0 +1,10 @@
+# Caption inference
+torch
+torchvision
+transformers
+tqdm
+pillow
+qwen-vl-utils
+
+# LLM judge
+vllm
